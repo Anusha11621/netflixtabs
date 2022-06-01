@@ -1,0 +1,7 @@
+{
+  "name": "netflixtabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
